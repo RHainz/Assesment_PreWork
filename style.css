@@ -1,0 +1,36 @@
+#head {
+    display: flex;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.navbar {
+    text-decoration: none;
+    font-size: 2em;
+}
+
+.navbar-ul {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-evenly;
+    font-size: 20px;
+}
+
+.navbar-ul li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.blackHeartBox {
+    height: 10px;
+    font: size 15px;
+}
+
+.blackHeartBox {
+    max-width: 200px;
+}
+
+.head{
+    border: 1px solid black;
+}
+
