@@ -1,8 +1,43 @@
 #head {
     display: flex;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.npmletters{
+    background-color: white;
+    color:black;
+    width: 40%;
+    height: 15px;
+    border: 1px solid black;
+}
+
+.blackheart {
+    height: 15px;
+}
+
+.navbar {
+    border: 1px solid black;
+}
+
+#searchline {
+    max-height: 15px;
+    border: 1px solid black;
+}
+
+.logonpm {
+    height: 15px;
+    border: 1px solid black;
+}
+
+.magnglass {
+    height: 15px;
+    border: 1px solid black;
+}
+
+h1  {
+    font-size:3em;
+}
+/*
 .navbar {
     text-decoration: none;
     font-size: 2em;
@@ -34,3 +69,4 @@
     border: 1px solid black;
 }
 
+*/
